@@ -14,7 +14,7 @@ Source	News publisher's url\
 Category	Category of the news\
 Title	Headline of the news\
 Statement	Article or body of the news\
-Class	Real or Fake . 'Real' for authentic 'Fake' for fake\
+Class	Real or Fake . 'Real' for authentic 'Fake' for fake
 
 
 Bibtex for citation\
