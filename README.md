@@ -6,7 +6,7 @@ This work is accepted at iCCECE 2020. Paper is available at https://arxiv.org/pd
 
 List of files\
 FinalData1.csv\
-FinalData1.xlsx\
+FinalData1.xlsx
 
 Column Title	Description\
 Date Date of the news published\
