@@ -2,7 +2,7 @@
 
 Title: Detection of Bangla Fake News using MNB and SVM Classifier\
 Authors: Md Gulzar Hussain, Md Rashidul Hasan, Mahmuda Rahman, Joy Protim and Sakib Al Hasan\
-This work is accepted at iCCECE 2020. Paper is available at https://arxiv.org/pdf/2005.14627.pdf
+This work is accepted at iCCECE 2020. Paper is available at https://ieeexplore.ieee.org/document/9231167 and (preprint) https://arxiv.org/pdf/2005.14627.pdf
 
 List of files\
 FinalData1.csv\
@@ -18,9 +18,12 @@ Class	Real or Fake . 'Real' for authentic 'Fake' for fake
 
 
 Bibtex for citation\
-@article{hussain2020detection,\
-  title={Detection of Bangla Fake News using MNB and SVM Classifier},\
-  author={Hussain, Md Gulzar and Hasan, Md Rashidul and Rahman, Mahmuda and Protim, Joy and Hasan, Sakib Al},\
-  journal={arXiv preprint arXiv:2005.14627},\
-  year={2020}\
-}
+@INPROCEEDINGS{9231167,
+  author={M. G. {Hussain} and M. {Rashidul Hasan} and M. {Rahman} and J. {Protim} and S. {Al Hasan}},
+  booktitle={2020 International Conference on Computing, Electronics   Communications Engineering (iCCECE)}, 
+  title={Detection of Bangla Fake News using MNB and SVM Classifier}, 
+  year={2020},
+  volume={},
+  number={},
+  pages={81-85},
+  doi={10.1109/iCCECE49321.2020.9231167}}
